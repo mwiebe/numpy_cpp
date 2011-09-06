@@ -1,0 +1,5 @@
+A simple set of headers and utilities to make working with NumPy arrays
+from C++ simpler than using the C API. This is a WIP and no implication is
+intended that anything will work, will do what it says in the comments,
+or do anything remotely useful or good.
+
